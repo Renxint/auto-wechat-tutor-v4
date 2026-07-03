@@ -1,0 +1,2 @@
+# wxauto4 — 微信 4.x 自动化
+wxauto4

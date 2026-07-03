@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+data/家教单.txt
+data/招代理.txt
+data/teacher_chats.jsonl
+data/teacher_contacts.txt
+data/orders_raw.jsonl
+data/orders_parsed.jsonl
+data/中介工作流问题.txt
+scripts/wxauto_logs/
+.env
