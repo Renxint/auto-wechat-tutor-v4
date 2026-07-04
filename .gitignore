@@ -1,6 +1,9 @@
 __pycache__/
 *.pyc
 *.log
+.env
+
+# 生成数据
 data/家教单.txt
 data/招代理.txt
 data/teacher_chats.jsonl
@@ -8,5 +11,12 @@ data/teacher_contacts.txt
 data/orders_raw.jsonl
 data/orders_parsed.jsonl
 data/中介工作流问题.txt
+data/orders.db
+data/orders_v2.db
+data/orders_v2.xlsx
+data/xiang_orders.json
+data/xiang_orders_raw.txt
+data/daily_orders.json
+data/known_sessions.txt
+data/conversation_state.json
 scripts/wxauto_logs/
-.env
